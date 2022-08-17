@@ -1,0 +1,25 @@
+1. vs code setting > workbench 
+2. Appearance 
+3. Color customization > edit in setting.json 
+4. Find "workbench.colorCustomizations": {  copy code in here } 
+
+ 
+"terminal.background":"#181818a9",
+"terminal.foreground":"#8F00FF",
+"terminalCursor.background":"#E9E9F4",
+"terminalCursor.foreground":"#E9E9F4",
+"terminal.ansiBlack":"#282936",
+"terminal.ansiBlue":"#62D6E8",
+"terminal.ansiBrightBlack":"#626483",
+"terminal.ansiBrightBlue":"#62D6E8",
+"terminal.ansiBrightCyan":"#A1EFE4",
+"terminal.ansiBrightGreen":"#EBFF87",
+"terminal.ansiBrightMagenta":"#43ff43",
+"terminal.ansiBrightRed":"#fd67fd",
+"terminal.ansiBrightWhite":"#dafc00",
+"terminal.ansiBrightYellow":"#00eaff",
+"terminal.ansiCyan":"#A1EFE4",
+"terminal.ansiGreen":"#EBFF87",
+"terminal.ansiMagenta":"#B45BCF",
+"terminal.ansiRed":"#EA51B2",
+"terminal.ansiWhite":"#E9E9F4",
